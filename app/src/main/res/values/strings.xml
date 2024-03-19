@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindGithub</string>
+    <string name="tabFollowers">Followers</string>
+    <string name="tabFollowing">Following</string>
+</resources>
